@@ -2,7 +2,7 @@
 Data Engineering with AWS project 3
 
 
-##This repository has been constructed with the following directories:
+## This repository has been constructed with the following directories:
 
   All Glue Python files
   All screen shots
@@ -10,7 +10,7 @@ Data Engineering with AWS project 3
 
 In preparing this work the following steps were executed:
   
-##Step 1:
+## Step 1:
 
 Uploaded data copied from the Udacity
 https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter 
@@ -20,7 +20,7 @@ s3://tvkbucket/customer/landing
 s3://tvkbucket/accelerometer/landing
 s3://tvkbucket/step_trainer/landing
 
-##Step 2: 
+## Step 2: 
 
 Verify glue roles etc. from previous work:
 
@@ -28,7 +28,7 @@ S3 Gateway Endpoint
 Glue Service IAM Role
 Glue Privileges on the S3 bucket and Glue Policy
 
-##Step 3:
+## Step 3:
 
 Glue Studio was used to create the required data sets joins etc. for the landing, trusted and curated zones
 As instructed. In each case the python script was saved under the target data name.
