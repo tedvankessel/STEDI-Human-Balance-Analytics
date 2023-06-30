@@ -4,9 +4,9 @@ Data Engineering with AWS project 3
 
 ## This repository has been constructed with the following directories:
 
-  All Glue Python files
-  All screen shots
-  All SQL files for tables
+  - All Glue Python files
+  - All screen shots
+  - All SQL files for tables
 
 In preparing this work the following steps were executed:
   
@@ -16,9 +16,9 @@ Uploaded data copied from the Udacity
 https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter 
 site to:
 
-s3://tvkbucket/customer/landing
-s3://tvkbucket/accelerometer/landing
-s3://tvkbucket/step_trainer/landing
+- s3://tvkbucket/customer/landing
+- s3://tvkbucket/accelerometer/landing
+- s3://tvkbucket/step_trainer/landing
 
 ## Step 2: 
 
