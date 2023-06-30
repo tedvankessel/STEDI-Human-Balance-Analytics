@@ -1,4 +1,4 @@
-![image](https://github.com/tedvankessel/STEDI-Human-Balance-Analytics/assets/18447321/1469af1a-3ce9-47cd-ba64-803d2bf6e8aa)# STEDI-Human-Balance-Analytics
+# STEDI-Human-Balance-Analytics
 Data Engineering with AWS project 3
 
 
